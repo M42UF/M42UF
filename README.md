@@ -1,30 +1,29 @@
-###                                                 Hi there, I'm M42UF
-####                                                  Software Engineer
-![Software Engineer](https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/137369902_1054380108364591_6138428565541686005_n.jpg?stp=dst-jpg_p180x540&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGHEEfdrY98SAfq6mGrySKWY-rkyZFjB5Rj6uTJkWMHlMgfsPuwJQaMSmvyFhKo5Aj7pHrksctOVY93ma0CZHbu&_nc_ohc=IOMInPOZJrcAX_gFjOM&_nc_ht=scontent.fdac14-1.fna&oh=00_AT8TuBNsCIejYlMd8EGGAHT0ZFtGfBdceYcbnuu49fxT0Q&oe=62DECBFB)
+<h1 align="center">Hi 👋, I'm M42UF</h1>
+<h3 align="center">CYBER SECURITY RESEARCHER</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m42uf&label=Profile%20views&color=0e75b6&style=flat" alt="m42uf" /> </p>
 
-This is Gazi Maruf Rahman, recently I'm doing a BSc in CSE at a well-known university in Bangladesh.
-I am basically a software engineer but I work with cyber security. You can call me a Pentester. With the help of Python, I can solve your various problems
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m42uf" alt="m42uf" /></a> </p>
 
+- 🔭 I’m currently working on **Cyber security and Ethical hacking**
 
-Skills:  Python / Linux Administration / Networking /  SQL / Cybersecurity
+- 📫 How to reach me **telapokaworld@gmail.com**
 
-- 🔭 I’m currently working on Cyber security and Ethical hacking 
-- 🌱 I’m currently learning Pentesting 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Hacking 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/m42uf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m42uf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gazi maruf rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gazi maruf rahman" height="30" width="40" /></a>
+<a href="https://fb.com/gmrjeesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gmrjeesan" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_telapoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_telapoka" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jeesan rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jeesan rahman" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/5ZWYWCkk3S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5ZWYWCkk3S" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m42uf&show_icons=true&locale=en&layout=compact" alt="m42uf" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m42uf&show_icons=true&locale=en" alt="m42uf" /></p>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/M42UF)  
-
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M42UF)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=M42UF&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/M42UF)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m42uf&" alt="m42uf" /></p>
