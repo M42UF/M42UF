@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m42uf&label=Profile%20views&color=0e75b6&style=flat" alt="m42uf" /> </p>
 
-- currently working on **Cyber security and Ethical hacking**
+- Currently working on **Cyber security and Ethical hacking**
 
-- reach me **telapokaworld@gmail.com**
+- Reach me **telapokaworld@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
