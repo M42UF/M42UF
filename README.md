@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm M42UF</h1>
 <h3 align="center">CYBER SECURITY RESEARCHER</h3>
+<h4 align="center">This is Gazi Maruf Rahman, recently I'm doing a BSc in CSE at a well-known university in Bangladesh. I am basically a software engineer but I work with cyber security. You can call me a Pentester. With the help of Python, I can solve your various problems
+
+Skills: Python / Linux Administration / Networking / SQL / Cybersecurity</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m42uf&label=Profile%20views&color=0e75b6&style=flat" alt="m42uf" /> </p>
 
